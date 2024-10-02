@@ -379,6 +379,8 @@ footer {
     justify-content: center; /* Center the videos horizontally */
     gap: 225px; /* Increase space between videos */
     margin: 20px; /* Optional: Adds margin around the container */
+    width: auto;
+    height: 700px;
 }
 
 .video-settings {
